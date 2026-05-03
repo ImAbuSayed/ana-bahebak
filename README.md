@@ -11,6 +11,7 @@
 | Title | Ana Bahebak |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 23, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/ana-bahebak/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
