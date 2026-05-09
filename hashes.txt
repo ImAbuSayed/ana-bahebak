@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ana Bahebak
+
+This log tracks the cryptographic history and versioning for the song **Ana Bahebak** (ana-bahebak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:43:02.707357 | `v1` | `877108f81b70abb361e4953cca23486f5588447fe7a92bd0b163f60e345e5324` | `1886c0425420d3ac0897e979d091242a43dfdea3e427e9076fddede7c166b067` | `2026-05-09_ana-bahebak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
